@@ -20,11 +20,11 @@ This project is a part of the Adobe GenSolve challenge, specifically under the C
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-repo-name/curvetopia.git
+    git clone https://github.com/Smohanta23/Curve-Regularization-and-Symmetry-in-Curvetopia.git
     ```
 2. Navigate to the project directory:
     ```bash
-    cd curvetopia
+    cd Curvetopia
     ```
 3. Create a virtual environment and activate it:
     ```bash
@@ -33,7 +33,13 @@ This project is a part of the Adobe GenSolve challenge, specifically under the C
     ```
 4. Install the required packages:
     ```bash
-    pip install -r requirements.txt
+    pip install -r requirements.txt which will include-
+    numpy==1.23.5
+    matplotlib==3.8.0
+    scikit-learn==1.2.2
+    scipy==1.10.1
+    jupyter==1.0.0
+
     ```
 
 ## **Usage**
@@ -104,7 +110,7 @@ This project is licensed under the MIT License. See the `LICENSE` file for more 
 
 ## **Acknowledgments**
 
-This project was developed as part of the Adobe GenSolve challenge. Special thanks to Adobe for providing this opportunity and the guidance throughout the project.
+This project was developed as part of the Adobe GenSolve challenge. Special thanks to Adobe for providing this opportunity and the guidance throughout the project.please do not copy it directly.
 
 ---
 
